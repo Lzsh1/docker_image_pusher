@@ -1,4 +1,4 @@
 nginx
-aliyundrive-subscribe:latest
+library/aliyundrive-subscribe:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
